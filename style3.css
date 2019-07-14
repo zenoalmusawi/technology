@@ -1,0 +1,143 @@
+
+*{
+    box-sizing: border-box;
+    margin: 0 0;
+}
+header{
+    background: whitesmoke;
+}
+.container{
+    width: 1440px;
+    height: 1000px;
+margin-right: auto;
+margin-left: auto;
+border: #123 10px solid;
+
+}
+.top{
+    background: #123;
+    border: #123 5px solid;
+    border-radius: 10px;
+ margin-right: 0%;
+    margin-top: 0%;
+ color: white;
+     height: 100px;   
+ }
+ .ssss{
+    color:white;
+    border: #07589b 5px solid;
+    background: #07589b;
+    text-align: center;
+    font-size: 22px;
+    position: relative;
+    bottom: 15px;
+    border-radius: 10px;
+
+    left: 1360px;
+   width: 85px;
+   height: 40px;
+    display: inline-block;
+}
+ h4{
+    position: relative;
+top: 15px;
+    left: 1230px;
+    font-size: 18px;
+}
+ .singup {
+    font-size: 20px;
+    display: inline-block;
+    border-radius: 10px;
+    position: relative;
+  bottom: 15px;
+    left: 1310px;
+}
+
+.ffff{
+    display: inline-block;
+    background: #123;
+    border: #123 5px solid;
+   color: #fff;
+   position: relative;
+  top: 40px;
+  left: 400px;
+  font-size: 18px;
+  
+}
+
+h3, h1{
+    display: inline-flex;
+}
+h3{
+    
+    border: 1px #000 solid;
+    position: relative;
+    top: 27px;
+    left: 300px;
+}
+h2{
+    text-align: center;
+    padding-top: 100px;
+}
+.part{
+    position: relative;
+    top: 250px;
+  display: flex;
+  justify-content:space-between;
+    text-align: center;
+}
+.part1  {
+    width: 200px;
+    height: 150px;
+    padding-top:45px ;
+    font-size: 22px;
+    background: linear-gradient(to bottom, #33ccff 0%, #ff9900 100%);
+    border-radius: 10px;
+    color: #fff;
+}
+.part3 {
+    border-radius: 10px;
+    color: #fff;  
+padding-top:45px ;
+font-size: 22px;
+width: 200px;
+height: 150px;
+background: linear-gradient(to bottom, #33ccff 0%, #ffcc00 100%);
+}
+.part5 {
+    border-radius: 10px;
+width: 200px;
+height: 150px;
+padding-top:45px ;
+font-size: 22px;
+background: linear-gradient(to bottom, #33ccff 0%, #ffccff 100%);  
+color: #fff;   
+}
+.part2{
+    border-radius: 10px;
+width: 200px;
+height: 150px;
+padding-top:45px ;
+font-size: 22px;
+background: linear-gradient(to bottom, #33ccff 0%, #ffcccc 100%);
+color: #fff;    
+}
+.part6{
+    border-radius: 10px;
+    color: #fff;  
+    width: 200px;
+    height: 150px;
+    background: linear-gradient(to bottom, #33ccff 0%, #ffcc99 100%);
+    padding-top:45px ;
+    font-size: 22px;
+    }
+   
+    .part4{
+        border-radius: 10px;
+        width: 200px;
+        height: 150px;
+        padding-top:45px ;
+        font-size: 22px;
+        background: linear-gradient(to bottom, #33ccff 0%, #ffcc66 100%);
+        color: #fff;  
+        }
